@@ -1,0 +1,72 @@
+.bg-purple{
+	background-color:#0DCBE0;
+}
+.bg-blue{
+	background-color: #0DCBE0;
+	height: 45px;
+}
+.bg-black{
+	background-color: #100E12;
+}
+.bg-black2{
+	background-color: #100E12;
+	height: 900px;
+}
+#topo{
+	height: 200px; 
+}
+
+#foto{
+	width: 190px;
+	height: 190px;
+	margin-left: 50px; /* Margem do elemento em relação à esquerda. */
+	margin-top: -90px; /* Margem do elemento em relação ao topo. */
+}
+#texto{
+	margin-top: 100px;
+ 	margin-left: 800px; 
+}
+#introduction{
+	color: white;
+	margin-left: 400px;
+	text-decoration: underline;
+}
+#meio{
+	margin-left: 400px;
+	font-style: italic;
+	color:white;
+}
+#estive{
+	color: white;
+	margin-left: 400px;
+	text-decoration: underline;
+}
+#hobbies{
+	color: white;
+	margin-left: 400px;
+	text-decoration: underline;
+}
+#trabalho{
+	color: white;
+	margin-left: 400px;
+	text-decoration: underline;
+}
+#cards{
+	width: 14rem;
+	 margin-left: 10px; 
+	min-height:10%;
+}
+#card1{
+	width: 14rem;
+	 margin-left: 410px; 
+	 min-height: 10%;
+}
+#sou{
+	margin-top: 225px;
+}
+
+#fim{
+	font-size: 18px;
+	font-family: sans-serif;
+	color: white;
+}
